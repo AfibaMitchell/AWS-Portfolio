@@ -28,4 +28,4 @@ This site can also be deployed using GitHub Pages:
 1. Go to repository settings
 2. Navigate to Pages section
 3. Select the main branch as the source
-4. The site will be published at https://aditya3134802.github.io/portfolio-website/
+4. The site will be published at (https://afibamitchell.github.io/AWS-Portfolio/)
