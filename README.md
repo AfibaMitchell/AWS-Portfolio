@@ -1,4 +1,4 @@
-# Aditya Kumar Singh - Portfolio Website
+# Afiba Mitchell - Portfolio Website
 
 ## Overview
 This is a professional portfolio website for Aditya Kumar Singh, a DevOps and Cloud Engineer with 3+ years of experience in architecting, automating, and optimizing deployments in Azure, AWS, and GCP environments.
@@ -29,8 +29,3 @@ This site can also be deployed using GitHub Pages:
 2. Navigate to Pages section
 3. Select the main branch as the source
 4. The site will be published at https://aditya3134802.github.io/portfolio-website/
-
-## Contact
-- Email: aksingh3134@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/aditya-singh-cloud/](https://www.linkedin.com/in/aditya-singh-cloud/)
-- GitHub: [https://github.com/aditya3134802](https://github.com/aditya3134802)
